@@ -1,15 +1,13 @@
 
-###  `README.md` for **DevOps Day 5 – Shell Scripting**
 
-````markdown
-#  DevOps Day 5 supernova jounery – Shell Scripting Basics 
+###  DevOps Day 5 supernova jounery – Shell Scripting Basics 
 
 Heyy! Today I entered the world of **Shell Scripting** – the brain of Linux automation 
 Small commands + logic = full power control over system 
 
 ---
 
-##  What I Did Today:
+###  What I Did Today:
 
 ### 1. Created my **first shell script**
 - I wrote a `.sh` file with commands inside it
