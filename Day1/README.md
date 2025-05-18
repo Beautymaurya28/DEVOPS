@@ -1,4 +1,4 @@
-# DevOps Journey – Day 2(Tuesday 14th may)
+# DevOps 13 May 2025 - Day 1 (Supernova Execution Mode ON) – Tuesday 
 
 ## What I Learned with Explanation
 
