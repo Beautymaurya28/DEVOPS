@@ -1,6 +1,6 @@
 
 
-###  DevOps Day 5 supernova jounery – Shell Scripting Basics 
+###  DevOps 16 May 2025 - Day 4 (Supernova Execution Mode ON) – Friday  – Shell Scripting Basics 
 
 Heyy! Today I entered the world of **Shell Scripting** – the brain of Linux automation 
 Small commands + logic = full power control over system 
