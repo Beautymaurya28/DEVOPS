@@ -99,7 +99,5 @@ Understanding permissions is crucial for securing files and directories in multi
 
 ---
 
-### Summary
 
-Day 2 involved building a strong foundation in DevOps fundamentals and hands-on Linux command-line usage. These are essential building blocks for any DevOps journey.
 
