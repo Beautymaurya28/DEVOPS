@@ -1,4 +1,4 @@
-# DevOps 13 May 2025 - Day 1 (Supernova Execution Mode ON) – Tuesday 
+# DevOps 26 May 2025 - Day 1 (Supernova Execution Mode ON) – Tuesday 
 
 ## What I Learned with Explanation
 
