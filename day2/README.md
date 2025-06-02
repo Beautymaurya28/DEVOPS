@@ -1,6 +1,6 @@
 
 
-###  DevOps 16 May 2025 - Day 4 (Supernova Execution Mode ON) – Friday  – Shell Scripting Basics 
+###  DevOps 30 May 2025 - Day 2  – Friday  – Shell Scripting Basics 
 
 Heyy! Today I entered the world of **Shell Scripting** – the brain of Linux automation 
 Small commands + logic = full power control over system 
@@ -79,31 +79,20 @@ day2/
 ├── 02_variables.sh     # variables
 ├── 03_constants.sh     # readonly use
 ├── 04_arrays.sh        # arrays + associative arrays
-├── 05_strings.sh       # string operations
+├── 07_strings.sh       # string operations
+├── 08_user_interaction.sh   #interact with user 
 └── README.md           # this file 
 ```
 
 ---
 
-##  Thoughts of the Day:
 
-* Shell scripting is like talking to Linux in its own language 🐧
-* At first it looks scary... but once you start – it’s addictive!
-* Super helpful for automation and DevOps workflows 
 
----
+##  What's Next (Day 3 Plan):
 
-##  What's Next (Day 9 Plan):
-
+* arthimatic operation
 * `if`, `else`, `elif` – decision making
 * `for`, `while` loops – repeating tasks
 * Functions – reuse code like a pro
 
-**Next level automation unlocks tomorrow!**
-
----
-
-*That’s it for today – Nova x Nebula
-
-```
 
