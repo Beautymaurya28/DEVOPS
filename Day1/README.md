@@ -1,4 +1,5 @@
-# DevOps 27 May 2025 - Day 1  – Tuesday 
+# DevOps  intro
+
 
 ## What I Learned with Explanation
 
